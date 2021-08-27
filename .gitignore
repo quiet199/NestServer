@@ -10,6 +10,11 @@ yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
 
+#yarn
+yarn.lock
+
+.history
+
 # OS
 .DS_Store
 
